@@ -4,7 +4,7 @@ This is a simple tutorial for learning SASS basics in about 30 minutes to an hou
 
 ## What is SASS?
 
-SASS stands for Syntactically-Awesome Style Sheets. It's a "pre-compiler" for CSS. Basically, it's software that allows you to write your CSS in really simple, convenient shorthand. So instead of writing *real* CSS, you write all your stylesheets in shorthand, and then use SASS to compile your docs into fully-functional CSS to include in your HTML docs. Pretty neat.
+SASS stands for Syntactically-Awesome Style Sheets. It's a "pre-processor" for CSS. Basically, it allows you to write your CSS in really simple, convenient shorthand. So instead of writing *real* CSS, you write all your stylesheets in shorthand, and then use SASS to compile your docs into fully-functional CSS to include in your HTML docs. Pretty neat.
 
 ## Installing SASS
 
